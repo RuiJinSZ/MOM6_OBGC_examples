@@ -1,7 +1,7 @@
 [submodule "src/mkmf"]
 	path = src/mkmf
-	url = https://github.com/NOAA-GFDL/mkmf.git
-	branch = master
+	url = https://github.com/RuiJinSZ/mkmf.git
+	branch = dev/klone
 [submodule "src/FMS"]
 	path = src/FMS
 	url = https://github.com/NOAA-GFDL/FMS.git
@@ -36,9 +36,9 @@
 	branch = Icepack1.3.3
 [submodule "src/MOM6"]
 	path = src/MOM6
-	url = https://github.com/NOAA-CEFI-Regional-Ocean-Modeling/MOM6.git
-	branch = dev/cefi
+	url = https://github.com/RuiJinSZ/MOM6.git
+	branch = dev/klone
 [submodule "src/ocean_BGC"]
 	path = src/ocean_BGC
-	url = https://github.com/NOAA-CEFI-Regional-Ocean-Modeling/ocean_BGC.git
-	branch = dev/cefi
+	url = https://github.com/RuiJinSZ/ocean_BGC.git
+	branch = dev/klone
